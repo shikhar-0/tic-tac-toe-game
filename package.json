@@ -2,7 +2,7 @@
   "name": "react.dev",
   "version": "0.0.0",
   "main": "/src/index.js",
-  "homepage": "https://shikhar-0.github.io/tic-tac-toe",
+  "homepage": "https://shikhar-0.github.io/tic-tac-toe-game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
